@@ -1,7 +1,7 @@
 # 🌼 FlowerDiff: Diffusion Models & Embedding Analysis
 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/Consscht/FlowerDiff)
-[![Weights & Biases](https://img.shields.io/badge/W%26B-Experiment%20Logs-orange)]([https://wandb.ai/](https://wandb.ai/Conscht-Sht/Hands-on-CV-Project3))
+[![Weights & Biases](https://img.shields.io/badge/W%26B-Experiment%20Logs-orange)]([https://wandb.ai/](https://wandb.ai/Conscht-Sht/Hands-on-CV-Project3)
 
 This repository contains the implementation for the **Denoising Probabilistic Diffusion Models** student assessment. The project focuses on generating high-quality images using a U-Net DDPM, extracting internal representations ("embeddings"), and evaluating the results using modern MLOps tools.
 
